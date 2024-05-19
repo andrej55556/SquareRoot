@@ -1,0 +1,54 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-19 18:28+0500\n"
+"PO-Revision-Date: 2024-05-19 12:08+0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: test.py:40
+msgid "Ошибка: Точность должна быть положительным числом и не больше 25!"
+msgstr "Error: The precision must be a positive number and not greater than 25!"
+
+#: test.py:65
+msgid "Арифметический корень: "
+msgstr "Arithmetic root: "
+
+#: test.py:65
+msgid "Аналитический корень: "
+msgstr "Analytical root: "
+
+#: test.py:68
+msgid "Ошибка: Неверный ввод. Пожалуйста, введите число."
+msgstr "Error: Invalid Input. Please enter a number."
+
+#: test.py:76
+msgid "Калькулятор квадратного корня"
+msgstr "Square root calculator"
+
+#: test.py:81
+msgid "Точность:"
+msgstr "Precision:"
+
+#: test.py:86
+msgid "Число:"
+msgstr "Number:"
+
+#: test.py:92
+msgid "Вычислить"
+msgstr "Calculate"
+
+#: test.py:103
+msgid "<b>Техническая поддержка:"
+msgstr "<b>Technical support:"
